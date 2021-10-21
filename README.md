@@ -1,5 +1,8 @@
+# Name & Section
 print ("I'm John Cedric Pengon from BSECE 2-1")
+Print ("Taking Bachelors of Science in Electronics Engineering")
 
+# Numbers
 num1 = 24
 num2 = 56
 
